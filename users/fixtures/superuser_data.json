@@ -1,0 +1,15 @@
+[
+  {
+    "model": "users.User",
+    "fields": {
+      "first_name": "Super",
+      "last_name": "Admin",
+      "password": "pbkdf2_sha256$260000$dSnftN2bCy2OQTIASsneoH$lQyqWmTzG4xDXFG4aD2s+FHfLvyiVRRWe0WBak0fxbg=",
+      "is_superuser": true,
+      "is_staff": true,
+      "is_active": true,
+      "email": "super@admin.com",
+      "username": "superadmin"
+    }
+  }
+]
